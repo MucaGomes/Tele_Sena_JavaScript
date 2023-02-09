@@ -36,7 +36,9 @@ button {
 
 .saved-games{
   border: 1px solid gray;
-  list-style-type: decimal;
+  list-style-type: none;
+  width: fit-content;
+  padding: 0%;
 }
 
 .number-saved-game {
